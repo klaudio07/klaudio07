@@ -10,6 +10,8 @@ Skilled in Python, Machine Learning, MySQL, Tableau, R, Java, Excel and VBA.
 
 **Contact Me**
 
-Love to create and build
-Portfolio: https://github.com/klaudio07 LinkedIn: https://www.linkedin.com/in/klaudio-kalari-19392a54/
+Love to create and build!
+
+Portfolio: https://klaudio07.github.io/klaudio07/index.html 
+LinkedIn: https://www.linkedin.com/in/klaudio-kalari-19392a54/
 
